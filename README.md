@@ -1,4 +1,7 @@
-# jsPDF
+# jsPDF 
+
+当前版本不支持utf8字体，目前 MrRio正在改写的2.0版本支持中文字体。
+中文字体暂时只能使用addHtml方式先转成canvas再转换成PDF文件。
 
 [![Build Status](https://saucelabs.com/buildstatus/jspdf)](https://saucelabs.com/beta/builds/526e7fda50bd4f97a854bf10f280305d)
 
